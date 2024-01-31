@@ -1,3 +1,3 @@
-# Demo
+# Terminator
 
-Some discription          
+Good vs Bad robots!
